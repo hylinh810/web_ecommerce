@@ -1,0 +1,50 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-738-994
+INFO:werkzeug: * Detected change in 'C:\\Users\\htyl0\\OneDrive\\Máy tính\\python\\recomsearch.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-738-994
+INFO:root:Received request for recommendations for user 52
+INFO:root:Recommendations for user 52: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:13:30] "GET /api/recommendations?user_id=52 HTTP/1.1" 200 -
+INFO:root:Received request for recommendations for user 52
+INFO:root:Recommendations for user 52: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:13:32] "GET /api/recommendations?user_id=52 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-738-994
+INFO:root:Received request for recommendations for user 52
+INFO:root:Recommendations for user 52: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:14:24] "GET /api/recommendations?user_id=52 HTTP/1.1" 200 -
+INFO:root:Received request for recommendations for user 52
+INFO:root:Recommendations for user 52: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:14:25] "GET /api/recommendations?user_id=52 HTTP/1.1" 200 -
+INFO:root:Received request for recommendations for user 50
+INFO:root:Recommendations for user 50: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:14:55] "GET /api/recommendations?user_id=50 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-738-994
+INFO:root:Received request for recommendations for user 50
+INFO:root:Recommendations for user 50: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:20:45] "GET /api/recommendations?user_id=50 HTTP/1.1" 200 -
+INFO:root:Received request for recommendations for user 50
+INFO:root:Recommendations for user 50: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:20:45] "GET /api/recommendations?user_id=50 HTTP/1.1" 200 -
+INFO:root:Received request for recommendations for user 50
+INFO:root:Recommendations for user 50: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:20:46] "GET /api/recommendations?user_id=50 HTTP/1.1" 200 -
+INFO:root:Received request for recommendations for user 50
+INFO:root:Recommendations for user 50: []
+INFO:werkzeug:127.0.0.1 - - [10/Jan/2024 23:20:46] "GET /api/recommendations?user_id=50 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\htyl0\\OneDrive\\Máy tính\\python\\recomsearch.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-738-994
+INFO:werkzeug: * Detected change in 'C:\\Users\\htyl0\\OneDrive\\Máy tính\\python\\recomsearch.py', reloading
+INFO:werkzeug: * Restarting with stat

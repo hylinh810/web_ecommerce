@@ -1,0 +1,22 @@
+.single_product__inner {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.single_product__inner:hover {
+    background-color: #f8f8f8;
+}
+
+@media (max-width: 768px) {
+    .single_product__inner {
+        width: 100%;
+        /* Adjust as needed */
+    }
+}
+
+.single_product__inner h5 {
+    font-size: 16px;
+    color: #333;
+}
